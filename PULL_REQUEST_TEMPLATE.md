@@ -1,4 +1,4 @@
-# Description
+l,# Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
@@ -23,3 +23,6 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation, if applicable
+- [ ] My PR title follows format of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- [ ] My PR title uses only lowercase characters
+- [ ] My PR title references a Jira ticket i.e `... [JIRA-123]`
