@@ -43,7 +43,6 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] Docs / comments (Relevant documentation and code comments updated)
 - [ ] Security & performance (If relevant) (No security or major performance issues introduced)
 
-Peer Tester: @____________
+Peer tester: @____________
 
-Peer Tester Notes:  
-<!-- If any testing steps fail, or if you had to do something different than described, please explain here. -->
+Peer tester notes:  
