@@ -26,3 +26,23 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] My PR title follows format of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - [ ] My PR title uses only lowercase characters
 - [ ] My PR title references a Jira ticket i.e `... [JIRA-123]`
+
+# Peer testing checklist
+
+> To be completed by a peer tester (not the PR author).
+
+- [ ] Meets requirements (The change addresses all ticket/story criteria)
+- [ ] Verified testing steps (Followed the “Testing” section; steps pass as described)
+- [ ] Works as expected (Main features and edge cases behave correctly)
+- [ ] No obvious bugs (No errors, crashes, or unexpected issues found)
+- [ ] UI/UX (Visuals, text, and interactions are correct; no typos, if applicable)
+- [ ] Error handling (Handles invalid inputs and errors gracefully)
+- [ ] Test coverage (New/updated logic is covered by tests as needed)
+- [ ] No breaking changes (Existing features still work)
+- [ ] Readable code (Code is clear, well-organised, and follows team conventions)
+- [ ] Docs / comments (Relevant documentation and code comments updated)
+- [ ] Security & performance (No security or major performance issues introduced, if relevant)
+
+Peer tester: @____________
+
+Peer tester notes:  
