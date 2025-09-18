@@ -28,7 +28,7 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] My PR title uses only lowercase characters
 - [ ] My PR title references a Jira ticket i.e `... [JIRA-123]`
 
-# Peer testing checklist
+# Peer Testing Checklist
 
 > ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
