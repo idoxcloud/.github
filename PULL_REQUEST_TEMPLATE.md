@@ -28,10 +28,13 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] My PR title uses only lowercase characters
 - [ ] My PR title references a Jira ticket i.e `... [JIRA-123]`
 
-# Peer testing checklist
+# Peer Testing Checklist
+
+> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
 > To be completed by a peer tester (not the PR author).
 
+- [ ] PR readiness (No unresolved Copilot suggestions and all relevant checks/tests are passing — required before peer testing continues)
 - [ ] Meets requirements (The change addresses all ticket/story criteria)
 - [ ] Verified testing steps (Followed the “Testing” section; steps pass as described)
 - [ ] Works as expected (Main features and edge cases behave correctly)
@@ -44,6 +47,6 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] Docs / comments (Relevant documentation and code comments updated)
 - [ ] Security & performance (No security or major performance issues introduced, if relevant)
 
-Peer tester: @____________
+Peer Tester: @____________
 
-Peer tester notes:  
+Peer Tester Notes:
