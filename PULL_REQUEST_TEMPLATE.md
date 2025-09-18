@@ -30,6 +30,8 @@ Please describe the testing performed to verify your changes. Provide instructio
 
 # Peer testing checklist
 
+> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
+
 > To be completed by a peer tester (not the PR author).
 
 - [ ] PR readiness (No unresolved Copilot suggestions and all relevant checks/tests are passing — required before peer testing continues)
@@ -44,8 +46,6 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] Readable code (Code is clear, well-organised, and follows team conventions)
 - [ ] Docs / comments (Relevant documentation and code comments updated)
 - [ ] Security & performance (No security or major performance issues introduced, if relevant)
-
-> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
 Peer Tester: @____________
 
