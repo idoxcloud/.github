@@ -49,6 +49,4 @@ Peer Tester: @____________
 
 Peer Tester Notes:
 
-*Please provide details of the testing completed (steps followed, results, issues found, etc.)*
-
 > ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
