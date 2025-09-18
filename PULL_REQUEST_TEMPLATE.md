@@ -45,8 +45,8 @@ Please describe the testing performed to verify your changes. Provide instructio
 - [ ] Docs / comments (Relevant documentation and code comments updated)
 - [ ] Security & performance (No security or major performance issues introduced, if relevant)
 
+> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
+
 Peer Tester: @____________
 
 Peer Tester Notes:
-
-> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
