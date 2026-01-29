@@ -32,7 +32,9 @@ Please describe the testing performed to verify your changes. Provide instructio
 
 > ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
-> To be completed by a peer tester (not the PR author).
+> ℹ️ **Council Direct GB uses the form builder from idoxcloud-common rather than idoxcloud-common-php8.**
+
+**To be completed by a peer tester (not the PR author)**
 
 - [ ] PR readiness (No unresolved Copilot suggestions and all relevant checks/tests are passing — required before peer testing continues)
 - [ ] Meets requirements (The change addresses all ticket/story criteria)
