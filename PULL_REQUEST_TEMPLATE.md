@@ -30,7 +30,7 @@ Please describe the testing performed to verify your changes. Provide instructio
 
 # Peer Testing Checklist
 
-> ℹ️ **When peer testing is completed, please comment `peer tested` for the PR checks to complete.**
+> ℹ️ **When the peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
 > ℹ️ **Council Direct GB uses the form builder from idoxcloud-common rather than idoxcloud-common-php8.**
 
