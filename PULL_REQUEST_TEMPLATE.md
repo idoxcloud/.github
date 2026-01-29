@@ -32,7 +32,7 @@ Please describe the testing performed to verify your changes. Provide instructio
 
 > ℹ️ **When the peer testing is completed, please comment `peer tested` for the PR checks to complete.**
 
-> ℹ️ **Council Direct GB uses the form builder from idoxcloud-common rather than idoxcloud-common-php8.**
+> ℹ️ **Council Direct GB uses form builder from idoxcloud-common rather than idoxcloud-common-php8.**
 
 **To be completed by a peer tester (not the PR author)**
 
