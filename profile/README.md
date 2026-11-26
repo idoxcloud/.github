@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋🏻 We are IdoxCloud, part of Idoxgroup, a UK PLC.
+👋🏻 We are IdoxCloud, part of Idox Software Ltd.
 
 🌍 Check us out at [idoxgroup.com](https://idoxgroup.com)
 
